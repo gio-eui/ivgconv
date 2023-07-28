@@ -1,7 +1,7 @@
 # ivgconv
 
-[![GoDoc](https://godoc.org/github.com/ivg/ivgconv?status.svg)](https://godoc.org/github.com/ivg/ivgconv)
-[![Go Report Card](https://goreportcard.com/badge/github.com/ivg/ivgconv)](https://goreportcard.com/report/github.com/ivg/ivgconv)
+[![GoDoc](https://godoc.org/github.com/gio-eui/ivgconv?status.svg)](https://godoc.org/github.com/gio-eui/ivgconv)
+[![Go Report Card](https://goreportcard.com/badge/github.com/gio-eui/ivgconv)](https://goreportcard.com/report/github.com/gio-eui/ivgconv)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/go-mods/avatar/blob/master/LICENSE)
 
 ivgconv implements conversion between SVG and [IconVG](https://github.com/golang/exp/tree/master/shiny/iconvg) format.
